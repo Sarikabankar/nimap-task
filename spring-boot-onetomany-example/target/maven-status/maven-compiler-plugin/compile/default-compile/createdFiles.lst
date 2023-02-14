@@ -1,0 +1,11 @@
+com\onetomany\entities\Product.class
+com\onetomany\services\ProductService.class
+com\onetomany\repo\ProductRepo.class
+com\onetomany\services\impl\CategoryServiceImpl.class
+com\onetomany\SpringBootOnetomanyExampleApplication.class
+com\onetomany\controllers\ProductController.class
+com\onetomany\controllers\CategoryController.class
+com\onetomany\services\impl\ProductServiceImpl.class
+com\onetomany\services\CategoryService.class
+com\onetomany\entities\Category.class
+com\onetomany\repo\CategoryRepo.class
